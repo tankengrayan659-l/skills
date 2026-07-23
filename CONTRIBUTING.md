@@ -4,14 +4,14 @@ Thank you for your interest in the Google Agent Skills repository!
 
 ## Our Contribution Policy
 
-At this time, **we are not accepting external pull requests or code
+At this time, **we are accepting external pull requests or code
 contributions.** To ensure the technical accuracy, security, and architectural
 alignment of the guidance provided here, all Agent Skills must undergo a
 rigorous internal verification and approval process by Google teams.
 
 ## How You Can Help
 
-While we do not accept direct code contributions, your feedback is invaluable
+While we accept direct code contributions, your feedback is valuable
 for improving the quality of these skills: * **Report Issues:** If you find a
 bug, an outdated SDK pattern, or a security anti-pattern in a skill, please
 [open an issue](https://github.com/google/skills/issues). * **Request New
